@@ -1,7 +1,7 @@
-# Air-China-Web-App-Vue（airchina-vue）
+# Air-China-Web-App-Vue(airchina-vue)
 
 > 一个基于Vue.js 2.0 + Vuex + Vue Material的机票预订Web App
-  An airline reservation application based on Vue.js(v2.0) + Vuex + Vue Material.
+  | An airline reservation application based on Vue.js(v2.0) + Vuex + Vue Material.
 
 ## 构建步骤 Build Setup
 
@@ -9,7 +9,7 @@
 	npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 2.全局安装所需的依赖库：
-	cnpm npm install -g
+	cnpm install -g
 
 3.启动：
 	npm run dev
