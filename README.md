@@ -10,8 +10,11 @@
 
 2.全局安装所需的依赖库：
 	cnpm install -g
+  
+3.安装vue-svg-icon插件：
+  npm install vue-svg-icon --save-dev
 
-3.启动：
+4.启动：
 	npm run dev
 
 ## 构建成品置于其他外部HTTP服务器运行
